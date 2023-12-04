@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Java Card project properties</comment>
+<entry key="jc_prg.MyApplet">0x4D:0x79:0x41:0x70:0x70:0x6C:0x65:0x74:0x41:0x49:0x44</entry>
+</properties>
